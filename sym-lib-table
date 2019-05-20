@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name C64-Exp-Port)(type Legacy)(uri ${KIPRJMOD}/lib/C64-Exp-Port.lib)(options "")(descr ""))
+  (lib (name 74ls30)(type Legacy)(uri ${KIPRJMOD}/lib/74ls30.lib)(options "")(descr ""))
+)

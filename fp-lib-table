@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name OpenC64KernalCart)(type KiCad)(uri ${KIPRJMOD}/OpenC64KernalCart.pretty)(options "")(descr ""))
+)
